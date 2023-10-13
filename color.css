@@ -1,0 +1,26 @@
+body {background-color: rgb(241, 232, 210);
+
+}
+#parent{
+  position:relative;
+  border: 5px solid;
+  width: 300px;
+  height: 400px;}
+h1 {
+  color: rgb(14, 1, 1);
+  font-family: "Rye";
+  font-size: 55px;
+  
+  position: relative;
+  top: -115px;
+  left: 550px;
+}
+
+p {
+  position:relative;
+  left: 750px;
+  top: -100px;
+
+
+}
+#parent img{ position: relative; height: 300px;}
